@@ -1,5 +1,5 @@
 # Hey there, I'm Owen Shadburne. 
-I have plenty of projects here on github, but I also have some interesting stuff on my [website](cubetures.github.io) and [itch.io](https://cubetures.itch.io)!
+I have plenty of projects here on github, but I also have some interactable projects on my [website](cubetures.github.io) and [itch.io](https://cubetures.itch.io)!
 
 # About Me
 I have 3.5 years of coding experience as of 2024, and I'm fluent in C#, Javascript, Python and am very familiar with Java, HTML, and CSS.
