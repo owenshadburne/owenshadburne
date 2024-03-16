@@ -1,8 +1,5 @@
-# Hey there, I'm Owen Shadburne. 
-I have plenty of projects here on github and also have some interactable projects on my [website](https://cubetures.github.io) and [itch.io](https://cubetures.itch.io)!
+# Hey there, I'm Owen Shadburne.
 
-# About Me
-- I am a Computer Science student at Texas A&M and I have 3.5 years of coding experience as of 2024. 
-- I'm an expert in C#, Javascript, and Python, and very familiar with Java, C++, HTML, and CSS.
-- I love software development and learning more about coding every time I start up a new project.
-- I have seveal years worth of projects (both academic and personal), and the most notable ones can be found here on github.
+I'm a passionate computer science student from Texas A&M with over 4 years of coding expertise and I have over 7 publicly available projects (which you can find just below). I'm a seasoned full-stack developer with professional-level experience in C#, JavaScript, Python, C++, and Java and in-depth knowledge of software development, data structures, and systems design.
+
+The best of my projects are recorded here on GitHub, as well as on my [website](https://cubetures.github.io) and [itch.io](https://cubetures.itch.io)!
